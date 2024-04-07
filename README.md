@@ -7,8 +7,8 @@ Dataset Description:
 The Dataset contains information on various category and sub-category and their details.
 
 File Type: CSV   
-The variables in the datasets are:
-Table1: Details.csv : Order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
+The variables in the datasets are:       
+Table1: Details.csv : Order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode        
 Table2: Orders.csv Order Id, Order Date, Customer Name, City , State
 
 Learning Outcomes:
